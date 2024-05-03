@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\bin\Debug\net8.0\FundamentosCSharp.Console.exe
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\bin\Debug\net8.0\FundamentosCSharp.Console.deps.json
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\bin\Debug\net8.0\FundamentosCSharp.Console.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\bin\Debug\net8.0\FundamentosCSharp.Console.dll
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\bin\Debug\net8.0\FundamentosCSharp.Console.pdb
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.dll
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\refint\FundamentosCSharp.Console.dll
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.pdb
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\FundamentosCSharp.Console.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\FundamentosCSharp.Console\FundamentosCSharp.Console\obj\Debug\net8.0\ref\FundamentosCSharp.Console.dll
