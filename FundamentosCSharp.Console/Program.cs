@@ -1,7 +1,7 @@
 ﻿
 #region Tipos de Variáveis
 
-/*var nome = Console.ReadLine();
+var nome = Console.ReadLine();
 
 Console.WriteLine(nome);
 
@@ -16,11 +16,11 @@ string valorString = "Thais";
 const double PI = 3.1416; ///Não permite alterar o valor
 
 Console.WriteLine($"Double: {valorDouble}, float: {valorFloat}, Decimal {valorDecimal}, Int: {valorInteiro}, Boolean: {valorBoolean}, Char: {valorChar}, String: {valorString}");
-*/
+
 #endregion
 
 #region Operadores Aritméticos
-/*int a = 1;
+int a = 1;
 int b = 2;
 
 int soma = a + b; // 3
@@ -30,11 +30,11 @@ int divisao = b / a; // 2
 int modulo = a % b; // 1
 
 Console.WriteLine($"Soma: {soma}, Subtração: {subtracao}, Multiplicação: {multiplicacao}, Divisão: {divisao}, Modulo: {modulo}");
-*/
+
 #endregion
 
 #region Operadores de Comparação
-/*var p = 5;
+var p = 5;
 var q = 10;
 
 bool maior = p > q; // False
@@ -46,11 +46,10 @@ bool diferente = p != q; // True
 
 Console.WriteLine($"Maior: {maior}, Maior ou Igual: {maiorOuIgual}, Menor: {menor}, Menor Ou Igual: {menorOuIgual} " +
                   $"Igual: {igual}, Diferente: {diferente}");
-*/
+
 #endregion
 
 #region Operadores Lógicos
-/*
 bool x = true;
 bool y = false;
 
@@ -60,11 +59,11 @@ var notX = !x; // NOT: FALSE - vai inverter, se estiver false muda pra true e vi
 var notY = !y; // NOT: TRUE - vai inverter, se estiver false muda pra true e vice versa.
 
 Console.WriteLine($"AND: {and}, OR:C{or}, NOT X: {notX}, NOT Y: {notY});
-*/
+
 #endregion
 
 #region Operadores de Igualdade e Atribuição
-/*int k = 5;
+int k = 5;
 k = 10;
 
 k += 5; // k = k + 5 = 10 + 5 = 15
@@ -72,11 +71,10 @@ k -= 3; // k = k - 3 = 15 - 3 = 12
 k *= 2; // k = k * 2 = 12 * 2 = 24
 k /= 4; // k = k / 4 = 24 / 4 = 6
 k %= 5; // k = k % 5 = 6 % 5 = 1
-*/
+
 #endregion
 
 #region Estruturas Condicionais - if else
-/*
 //Exemplo 1:
 var nota = 75;
 
@@ -111,11 +109,10 @@ else
 {
     Console.WriteLine("Você é um idoso.");
 }
-*/
 #endregion
 
 #region Estruturas Condicionais - switch case
-/*
+
 int diaDaSemana = 3;
 string nomeDoDia;
 switch (diaDaSemana)
@@ -161,11 +158,11 @@ switch (nota)
         Console.WriteLine("Reprovado");
         break;
 }
-*/
+
 #endregion
 
 #region Matrizes
-/*int[] matriz = { 1, 4, 3, 2, 6 };
+int[] matriz = { 1, 4, 3, 2, 6 };
 int[] matrizVazia = new int[5];
 
 var tamanhoMatriz = matriz.Length;
@@ -175,11 +172,11 @@ Console.WriteLine($"Tamanho {tamanhoMatriz}, Dimensão {dimensaoMatriz}");
 
 Array.Sort(matriz);
 Array.Reverse(matriz);
-*/
+
 #endregion
 
 #region Estruturas de Repetição
-/*int[] matriz = { 1, 4, 3, 2, 6 };
+int[] matriz = { 1, 4, 3, 2, 6 };
 
 Console.WriteLine("While"); // Enquanto a condição for verdadeira.
 
@@ -212,5 +209,5 @@ foreach (int numero in matriz)
 {
     Console.WriteLine(numero);
 }
-*/
+
 #endregion
